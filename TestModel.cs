@@ -8,5 +8,6 @@ namespace Example
 {
     internal class TestModel
     {
+        public string Name { get; set; } = "Test";
     }
 }
