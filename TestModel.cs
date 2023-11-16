@@ -8,6 +8,6 @@ namespace Example
 {
     internal class TestModel
     {
-        private string Name = "Test";
+        private string Name;
     }
 }
